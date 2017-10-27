@@ -1,6 +1,6 @@
 ---
 ID: 161
-post_title: Employer JP
+post_title: 企業様
 author: admin
 post_excerpt: ""
 layout: page
