@@ -28,9 +28,9 @@ Company that can give a chance to change the clients' life towards good directio
 </b>By Nov 2017
 
 <b>Premise
-</b>Western astology thinks individuals and cosmos are linked and each 西洋占星術では宇宙と個人はつながっていて、惑星の位置関係により人や物事に影響を及ぼすと考えられています。惑星を意識しながら宇宙リズムを意識した生き方をすることで、ストレスを軽減したり、自己実現を可能とする人生を送ることができるのです。
+</b>Western astrology thinks individuals and cosmos are linked and each planet's location can affect individuals or things to happen.By living in a way that conscious of the planet and conscious of the cosmic rhythm, it is possible to reduce stress and to live a life that enables self-fulfillment.
 
-ホロスコープとは、占星術における各個人を鑑定するための天体の配置図ですが、そのなかでも出生時の年月日と時刻から作成される図を出生図といいます。出生図からは各個人や団体の資質や課題、使命などを読み取ることができます。ホロスコープ中惑星が位置する一度一度にはそれぞれ意味合いがあります。
+Horoscope is an arrangement map of celestial bodies for appraising individuals in astrology, among which the figure created from the date of birth and time is called the birth map. From the birth chart, you can read the qualities, tasks, missions, etc. of individuals and organizations.There is meaning where each planet is located.
 
 創業月日の選定には、創業者の出生図と現在の宙を運行する星の関係を鑑み、惑星からの擁護が働く時期をベースとし、そのなかから週末などを除外、残った候補のなかで創業される会社のホロスコープを作成し、設立される会社の業種をベースに、最も重視されるポイントが実現されると思われる日時時刻までを選定しています。提出される時間がずれるとこのホロスコープは変わりますので、必ず指定された時間内にご提出ください。またご提出が不可能な場合別の日時を算出いたしますので、お知らせください。
 
