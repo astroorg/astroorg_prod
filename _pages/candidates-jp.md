@@ -1,6 +1,6 @@
 ---
 ID: 167
-post_title: Candidates JP
+post_title: 応募者
 author: admin
 post_excerpt: ""
 layout: page
