@@ -32,23 +32,23 @@ Company that can give a chance to change the clients' life towards good directio
 
 Horoscope is an arrangement map of celestial bodies for appraising individuals in astrology, among which the figure created from the date of birth and time is called the birth map. From the birth chart, you can read the qualities, tasks, missions, etc. of individuals and organizations.There is meaning where each planet is located.
 
-創業月日の選定には、創業者の出生図と現在の宙を運行する星の関係を鑑み、惑星からの擁護が働く時期をベースとし、そのなかから週末などを除外、残った候補のなかで創業される会社のホロスコープを作成し、設立される会社の業種をベースに、最も重視されるポイントが実現されると思われる日時時刻までを選定しています。提出される時間がずれるとこのホロスコープは変わりますので、必ず指定された時間内にご提出ください。またご提出が不可能な場合別の日時を算出いたしますので、お知らせください。
+In order to choose the foundation date, we consider the relationship between the birth chart of the founder and the star that operates the current air. Based on the time when the defense from the planet works, excluding the weekend etc, among the remaining candidates we create a horoscope of the company and adjust based on the type of business of the company to be established. It will be adjusted until we are certain about the date and time that seems to realize the most important point that the company is founded for.Please be sure to submit the foundation document within the defined time. If you can not submit it, we will calculate another date and time, so please let us know.
 
-<b>創業者の基本鑑定:
+<b>Founders' basic appraisal:
 <img class="alignnone size-medium wp-image-208" src="http://35.200.64.23/wp-content/uploads/2017/10/jan_takahashi-1--300x187.png" alt="" width="300" height="187" />
 </b>
 
-創業者の正確な出生時間が不明だったため、人生の主要なイベント、パートナーの情報などをお聞きし、5:23にすると、P火星P木星がASCに合、P冥王星がこのASCに120度になるため5:23を採用しました。
+Because the exact birth time of the founder was unknown, based on the major events of life, information on partners, etc, we set the time to 5: 23 since P Mars will match ASC and P Pluto will be 120 degrees to this ASC.
 
-ASCが奥様の月と合
+His ASC is matched to his wife's moon.
 
-<b>個人鑑定</b>
+<b>Personal appraisal:</b>
 
-月...乙女座2度（幼少期・人生の出発点）
-この月には蟹座金星や牡牛座木星からの擁護があり、金銭物理的に恵まれた幼少時代だったのではないかと思いますが、ご両親もしくは年長の方からの方向付けはきちんとされていたのではないでしょうか。
+Moon...Virgo 2 degree（0-7 years old - life's start point）
+This moon has the advocacy from Cancer Venus and Taurus Jupiter, I wonder if it was a childhood blessed with money and things, however the direction from parents or senior people is properly done.
 
-太陽...牡牛座27.88 (28) 度（発展力）
-牡牛座から双子座へ出ていくチャンスを手に入れられる、新しい世界に開かれる甘いロマンスへの期待感とわくわくした感じのある度数です。新しいチャンスを信じて進むことを原動力とすることを確信する度数です。
+Sun...Taurus 27.88 (28) degrees（Development potential）
+It is a sense of excitement that you are expecting for sweet romance to be held in a new world, where you get the opportunity to get out of Taurus to Gemini.You believe in driving a new opportunity and being a driving force.
 
 目前にある現実というよりは、人類共有の集団的な精神に働きかけたいという意思が働きます。精神的、心理的、宗教的、芸術的、公職的な分野での活動では大きな可能性を秘めています。自分の純粋な意思を確認するには一人で考える必要があります。
 
