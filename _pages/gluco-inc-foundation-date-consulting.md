@@ -50,7 +50,7 @@ This moon has the advocacy from Cancer Venus and Taurus Jupiter, I wonder if it 
 Sun...Taurus 27.88 (28) degrees（Development potential）
 It is a sense of excitement that you are expecting for sweet romance to be held in a new world, where you get the opportunity to get out of Taurus to Gemini.You believe in driving a new opportunity and being a driving force.
 
-目前にある現実というよりは、人類共有の集団的な精神に働きかけたいという意思が働きます。精神的、心理的、宗教的、芸術的、公職的な分野での活動では大きな可能性を秘めています。自分の純粋な意思を確認するには一人で考える必要があります。
+Your intention is to work on the collective spirit of mankind sharing rather than the reality at hand.It has great potential in activities in spiritual, psychological, religious, artistic or public works.In order to confirm your pure intention you need to think alone.
 
 土星...魚座5度（人生の落とし所）
 刺激を求め、冒険的な行動をとっていきます。商品に付加価値をつけて高く売るということに長けています。土星年齢期(55-70歳）では社長業をした場合金星からの支援を受けることができ、収入にも恵まれるでしょう。
