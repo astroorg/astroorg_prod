@@ -59,36 +59,36 @@ In life as a whole, there is a connection between people and affection and fun, 
 
 Currently it is the period of learning.Because there is a gap in birth time, I think there will be some time around, but since the end of March 2018 you will enter the rising season of luck and the second debut to society around November 2026, as your current career The peak will be around September 2032.By the way, last time you entered the last rising period was around October 1990, the debut was about August 1999, and the peak was around June 2005.I think that it will be helpful to see what kind of situation it was at that time.
 
-2015年12月末〜2016年1月あたりに出生時間により稼ぐこと、または自身の学びに関する分野で何か価値観が変わられたのではないでしょうか（今後30年間の切り替え時）。
+From the end of December 2015 to January 2016, whether the area of earning or field of learning, your sense of value must have changed (a change for the next 30 years).
 
-完全に理想的なものではないけれど、自分が最もしたいことに少し似た仕事や活動、作業を社会の中でしていき、完全な自己実現の機会を伺っていきます。初めから自分の理想というものが社会の中で受け入れられるわけではないので時間はかかりますが、まずは近いところから、栄養を吸収して力強くなり次第に自分の理想の活動に近づいていきます。ご自身がされたいことを、この先の約30年間の間に社会の中で実現します。
+Although it is not perfectly ideal, you will continue to work on what is somewhat similar to what you want most to do in society, and you will seek opportunities for perfect self-realization.It will take time since your ideal thing is not accepted in society from the beginning, but from the vicinity area, you will absorb nutrition and become powerful and gradually will approach towards your ideal activity gradually.You will realize what you want to achieve in the society in the coming three decades.
 
-創業を考えられている2017/10〜11月の時期は、複数の惑星からの擁護が働き、創業にとても適した時期と言えます。
+In the period of 2017 / October to November when you are thinking to establish an organization, advocacy from multiple planets will work so it can be said that it is a very suitable time for the establishment.
 
 <b>Fundation date chart</b>
 
 <img class="alignnone size-medium wp-image-204" src="http://35.200.64.23/wp-content/uploads/2017/10/gluco3-300x199.png" alt="" width="300" height="199" />
 
-株式会社　グルコ
-創業日候補：11/1 17:03-17:13
-この時間に書類を提出して判をもらってください。
+Gluco, Inc.
+Foundation date/time：Nov 1 17:03-17:13
+Please make sure to submit the document and get the stamp within this period.
 
-<b>選定のポイント</b>
+<strong>Point of Selection</strong>
 
-創業者の収入を表す金星・公的な立場を表す土星に木星が10月26日〜11/5の間発展と幸運の角度で結ばれます。この期間中から週末などを除外し、起業されたい会社が重視されるポイントが実現されると思われるホロスコープの作成ができる日時を選定しました。
+Venus representing the founder's income and Saturn which represents the public position will be connected to Jupiter at the angle of development and fortune from October 26th to November 5th. We excluded weekend etc from this period and chose the date and time when the horoscope of the new company seems to be able to realize the point the company would like to achieve most.
 
-太陽：蠍座10度
-壁を壊して限界を突破し業績をあげた人が、違う分野の同じような人に共感的にプレゼンテーションをすることができます。
+Sun：Scorpio 10 degrees
+People who broke the wall, break through the limit and earn a performance can make presentations sympathetically to similar people in different fields.Ideal ideas and ideas that come out of unconsciousness will be realized.
 
-木星：蠍座5度
-大きな目標にチャレンジする度数。太陽とともに、無意識のなかから出てくる理想やアイデア理想などをあらわす惑星からの擁護があります。
+Jupiter: Scorpio 5 degrees
+Degree to challenge a big goal.
 
-月：牡羊座1度
-幼児が生まれてくるような新規な体験。まっさらな始まり。
+Moon：Aries 1 degree
+Like the new experience that infants are born.
 
-MC：水瓶座1度（17:07-10に出された場合）
-特定の場所に限らず、理念を空間を超えて普遍的に広げようとします。
+MC：Aquarius 1 degree (when issued at 17: 07-10)
+This will try to universally spread ideals beyond space, not limited to specific places.
 
-職場を現す場所に太陽木星金星があり、職場や働く場が楽しく恵まれた環境になるでしょう。ここで働いている人はまっさらな体験を勢いよく進めていきますが、天秤座火星により目的がターゲット化され、この活動はこの会社の社会的立場を築くために注がれていきます。
+There is Sun, Jupiter and Venus in the place to show office and it will be an environment where workplaces or working places are enjoyable.People who work here accelerate the experience a lot, but the purpose is targeted by Libra Mars, and this activity will be poured out to build the social position of this company.
 
 &nbsp;
