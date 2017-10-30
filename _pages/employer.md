@@ -17,7 +17,7 @@ post_date: 2017-10-17 08:39:14
 <span style="font-weight: 400;">A horoscope is an astrological chart or diagram representing the positions of the Sun, Moon, planets, astrological aspects and sensitive angles at the time of an event. Among all the charts, natal chart is the one which represents the moment of the person's birth date, time and location. From this natal chart, you can read each person or entity's quality, tasks to clear, or mission
 in life. Each degree that each planet represents has the important meaning.</span>
 
-Sample -- Foundation date consulting monitor YT
+<a href="http://35.200.64.23/en/testimonial/foundation-date-diagnostics-gluco-inc-yt/">Sample -- Foundation date consulting monitor YT</a>
 
 Sample -- Foundation date consulting monitor MT
 
