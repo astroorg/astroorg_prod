@@ -1,6 +1,6 @@
 ---
 ID: 222
-post_title: Gluco Inc. Foundation date consulting
+post_title: Gluet Inc. Foundation date consulting
 author: admin
 post_excerpt: ""
 layout: page
@@ -53,11 +53,11 @@ It is a sense of excitement that you are expecting for sweet romance to be held 
 Your intention is to work on the collective spirit of mankind sharing rather than the reality at hand.It has great potential in activities in spiritual, psychological, religious, artistic or public works.In order to confirm your pure intention you need to think alone.
 
 Saturn...Pisces 5 degrees（Achievement point of life）
-You will seek stimulation and take adventurous actions.You are good at selling goods with high added value.In Saturn age period (55 - 70 years old) you can receive support from Venus and if you become president, you will also have income.土星年齢期(55-70歳）では社長業をした場合金星からの支援を受けることができ、収入にも恵まれるでしょう。
+You will seek stimulation and take adventurous actions.You are good at selling goods with high added value.In Saturn age period (55 - 70 years old) you can receive support from Venus and if you become president, you will also have income.
 
-人生全般においては人と愛情や楽しいことに縁があり、奉仕の精神から生まれるお仕事から、収入にもつながります。
+In life as a whole, there is a connection between people and affection and fun, and work from born out of service spirit leads to income.
 
-現在は学びの期間です。出生時間のずれが考えられるため、多少時期の前後はあると思いますが、2018年3月下旬から運気の上昇期に入り、2026年11月ごろ社会への2度目のデビュー、今回の経歴としてのピークは2032年9月頃になります。ちなみに前回上昇期に入ったのが1990年の10月頃、デビューは1999年8月頃、ピークは2005年6月頃です。そのころどのような状況だったかがご参考になるかと思います。
+Currently it is the period of learning.Because there is a gap in birth time, I think there will be some time around, but since the end of March 2018 you will enter the rising season of luck and the second debut to society around November 2026, as your current career The peak will be around September 2032.By the way, last time you entered the last rising period was around October 1990, the debut was about August 1999, and the peak was around June 2005.I think that it will be helpful to see what kind of situation it was at that time.
 
 2015年12月末〜2016年1月あたりに出生時間により稼ぐこと、または自身の学びに関する分野で何か価値観が変わられたのではないでしょうか（今後30年間の切り替え時）。
 
