@@ -52,8 +52,8 @@ It is a sense of excitement that you are expecting for sweet romance to be held 
 
 Your intention is to work on the collective spirit of mankind sharing rather than the reality at hand.It has great potential in activities in spiritual, psychological, religious, artistic or public works.In order to confirm your pure intention you need to think alone.
 
-土星...魚座5度（人生の落とし所）
-刺激を求め、冒険的な行動をとっていきます。商品に付加価値をつけて高く売るということに長けています。土星年齢期(55-70歳）では社長業をした場合金星からの支援を受けることができ、収入にも恵まれるでしょう。
+Saturn...Pisces 5 degrees（Achievement point of life）
+You will seek stimulation and take adventurous actions.You are good at selling goods with high added value.In Saturn age period (55 - 70 years old) you can receive support from Venus and if you become president, you will also have income.土星年齢期(55-70歳）では社長業をした場合金星からの支援を受けることができ、収入にも恵まれるでしょう。
 
 人生全般においては人と愛情や楽しいことに縁があり、奉仕の精神から生まれるお仕事から、収入にもつながります。
 
