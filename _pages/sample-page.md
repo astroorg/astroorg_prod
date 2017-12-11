@@ -1,20 +1,20 @@
 ---
 ID: 2
-post_title: Sample Page
-author: admin
+post_title: サンプルページ
+author: user
 post_excerpt: ""
 layout: page
 permalink: >
-  http://35.200.64.23/index.php/sample-page/
+  http://ec2-54-250-170-146.ap-northeast-1.compute.amazonaws.com/sample-page/
 published: true
-post_date: 2017-10-05 15:24:49
+post_date: 2017-12-08 21:19:21
 ---
-This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+これはサンプルページです。同じ位置に固定され、(多くのテーマでは) サイトナビゲーションメニューに含まれるため、ブログ投稿とは異なります。サイト訪問者に対して自分のことを説明する自己紹介ページを作成するのが一般的です。たとえば以下のようなものです。
 
-<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
+<blockquote>はじめまして。昼間はバイク便のメッセンジャーとして働いていますが、俳優志望でもあります。これは僕のサイトです。ロサンゼルスに住み、ジャックという名前のかわいい犬を飼っています。好きなものはピニャコラーダ、そして通り雨に濡れること。</blockquote>
 
-...or something like this:
+または、このようなものです。
 
-<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
+<blockquote>XYZ 小道具株式会社は1971年の創立以来、高品質の小道具を皆様にご提供させていただいています。ゴッサム・シティに所在する当社では2,000名以上の社員が働いており、様々な形で地域のコミュニティへ貢献しています。</blockquote>
 
-As a new WordPress user, you should go to <a href="http://35.200.64.23/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!
+新しく WordPress ユーザーになった方は、<a href="http://ec2-54-250-170-146.ap-northeast-1.compute.amazonaws.com/wp-admin/">ダッシュボード</a>へ行ってこのページを削除し、独自のコンテンツを含む新しいページを作成してください。それでは、お楽しみください !
