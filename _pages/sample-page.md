@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2017-12-08 21:19:21
 ---
-[wds id="1"]
+[smartslider3 slider=2]
