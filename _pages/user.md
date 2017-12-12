@@ -3,9 +3,9 @@ ID: 308
 post_title: User
 author: user
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
-  http://ec2-54-250-170-146.ap-northeast-1.compute.amazonaws.com/blog/2017/12/12/user/
+  http://ec2-54-250-170-146.ap-northeast-1.compute.amazonaws.com/user/
 published: true
 post_date: 2017-12-12 14:20:33
 ---
