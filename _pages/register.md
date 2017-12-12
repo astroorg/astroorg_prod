@@ -1,10 +1,12 @@
 ---
-ID: 107
+ID: 314
 post_title: Register
-author: admin
+author: user
 post_excerpt: ""
 layout: page
-permalink: http://35.200.64.23/en/register/
+permalink: >
+  http://ec2-54-250-170-146.ap-northeast-1.compute.amazonaws.com/register/
 published: true
-post_date: 2017-10-11 17:36:46
+post_date: 2017-12-12 14:20:54
 ---
+[ultimatemember form_id=304]
