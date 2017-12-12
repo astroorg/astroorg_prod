@@ -1,10 +1,12 @@
 ---
-ID: 13
+ID: 316
 post_title: Members
-author: admin
+author: user
 post_excerpt: ""
 layout: page
-permalink: http://35.200.64.23/index.php/members/
+permalink: >
+  http://ec2-54-250-170-146.ap-northeast-1.compute.amazonaws.com/members/
 published: true
-post_date: 2017-10-05 15:52:19
+post_date: 2017-12-12 14:21:05
 ---
+[ultimatemember form_id=307]
