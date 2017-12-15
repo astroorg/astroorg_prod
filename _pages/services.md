@@ -13,9 +13,8 @@ AstroOrg provides the following services for startups organizations and anyone w
 
 1. FOUNDATION DATE ANALYSIS
 We analyze the best date to found the company based on the founder and company horoscope.
-<a href="http://ec2-54-250-170-146.ap-northeast-1.compute.amazonaws.com/foundation-date-consulting-gluet-inc/">Sample analysis</a>
-
-2. FOUNDATION PACKAGE
+<a href="http://ec2-54-250-170-146.ap-northeast-1.compute.amazonaws.com/foundation-date-consulting-gluet-inc/" target="_blank" rel="noopener">Sample analysis
+</a>2. FOUNDATION PACKAGE
 Ready to go package for new startups such as logo, name card, and letter head.
 3. EMPLOYEE MATCHING
 It is important to hire someone who can support you in the startup environment. We will introduce someone who matches to your organization based on the horoscope.
