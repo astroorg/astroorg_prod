@@ -35,7 +35,7 @@ Horoscope is an arrangement map of celestial bodies for appraising individuals i
 In order to choose the foundation date, we consider the relationship between the birth chart of the founder and the star that operates the current air. Based on the time when the defense from the planet works, excluding the weekend etc, among the remaining candidates we create a horoscope of the company and adjust based on the type of business of the company to be established. It will be adjusted until we are certain about the date and time that seems to realize the most important point that the company is founded for.Please be sure to submit the foundation document within the defined time. If you can not submit it, we will calculate another date and time, so please let us know.
 
 <b>Founders' basic appraisal:</b>
-<img src="http://ec2-54-250-170-146.ap-northeast-1.compute.amazonaws.com/wp-content/uploads/2017/12/jan_takahashi3.png" alt="" width="1361" height="865" class="alignnone size-full wp-image-373" />
+<img class="alignnone  wp-image-373" src="http://ec2-54-250-170-146.ap-northeast-1.compute.amazonaws.com/wp-content/uploads/2017/12/jan_takahashi3.png" alt="" width="473" height="325" />
 
 Because the exact birth time of the founder was unknown, based on the major events of life, information on partners, etc, we set the time to 5: 23 since P Mars will match ASC and P Pluto will be 120 degrees to this ASC.
 
@@ -66,7 +66,7 @@ In the period of 2017 / October to November when you are thinking to establish a
 
 <b>Fundation date chart</b>
 
-<img src="http://ec2-54-250-170-146.ap-northeast-1.compute.amazonaws.com/wp-content/uploads/2017/12/gluco3.png" alt="" width="1301" height="863" class="alignnone size-full wp-image-374" />
+<img class="alignnone  wp-image-374" src="http://ec2-54-250-170-146.ap-northeast-1.compute.amazonaws.com/wp-content/uploads/2017/12/gluco3.png" alt="" width="473" height="276" />
 
 Gluco, Inc.
 Foundation date/time：Nov 1 17:03-17:13
