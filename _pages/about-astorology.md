@@ -1,6 +1,6 @@
 ---
 ID: 297
-post_title: About Astorology
+post_title: About Astrology
 author: user
 post_excerpt: ""
 layout: page
