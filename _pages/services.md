@@ -21,4 +21,4 @@ It is important to hire someone who can support you in the startup environment. 
 We offer astrological consulting for founders and anyone looking for jobs. 
 
 Projects:
-[wds id="3"]
+[smartslider3 slider=2]
