@@ -9,3 +9,4 @@ permalink: >
 published: true
 post_date: 2017-12-19 00:31:07
 ---
+[contact-form-7 id="13" title="Contact form 1"]
