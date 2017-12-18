@@ -12,7 +12,7 @@ post_date: 2017-12-12 14:34:27
 Company Name
 Namara,Inc.
 Head Office
-1F 4-5-7 MinamiAoyama, Minatoku, Tokyo 107-0062 
+1F 4-5-7 MinamiAoyama, Minatoku, Tokyo 107-0062
 email: info@astroorg.com
 Representative
 Kaoru Ebina
