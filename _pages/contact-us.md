@@ -1,12 +1,11 @@
 ---
-ID: 34
-post_title: Contact us
-author: admin
+ID: 393
+post_title: Contact Us
+author: user
 post_excerpt: ""
 layout: page
 permalink: >
-  http://35.200.64.23/index.php/contact-us/
+  http://ec2-54-250-170-146.ap-northeast-1.compute.amazonaws.com/contact-us/
 published: true
-post_date: 2017-10-05 15:59:47
+post_date: 2017-12-19 00:31:07
 ---
-[contact-form-7 id="33" title="Contact form 1"]
